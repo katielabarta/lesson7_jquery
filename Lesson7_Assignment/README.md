@@ -4,20 +4,19 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(July 31, 2017)
 
 ### Student Name:  
-(First and Last Name)
+(Katherine Labarta)
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+(In this assignment, I created a display function and used the jQuery selector "currentTarget" with ".next()" to show the following elements when any h3 is clicked.)
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+(https://katielabarta.github.io/lesson7_jquery/)
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. ("$(document).ready(function(){ });" is used to keep jQuery from starting before the page is loaded.)
+2. (jQuery can change CSS by different methods, including, addClass(), removeClass, toggleClass, and css().)
+3. ("$("p").click();" will assign a click event (the precise moment when something happens) to all paragraphs.)
 
