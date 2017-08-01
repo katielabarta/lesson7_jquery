@@ -13,7 +13,7 @@ LIS 2360:  Web Application Development
 (In this assignment, I created a display function and used the jQuery selector "currentTarget" with ".next()" to show the following elements when any h3 is clicked.)
 
 ### View Project:
-(https://katielabarta.github.io/lesson7_jquery/)
+(https://katielabarta.github.io/lesson7_jquery/Lesson7_Assignment/)
 
 ### Lessons Learned in the Assignment:
 1. ("$(document).ready(function(){ });" is used to keep jQuery from starting before the page is loaded.)
